@@ -9,7 +9,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/SnapKit/SnapKit.git", .branch("develop")),
-        .package(url: "https://github.com/cbpowell/MarqueeLabel.git", .branch("master")),
+        .package(url: "https://github.com/rocklyve/MarqueeLabel.git", .branch("master")),
     ],
     targets: [
         .target(
